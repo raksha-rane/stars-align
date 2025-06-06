@@ -8,6 +8,13 @@ A computational analysis of Taylor Swift's lyrics, examining temporal references
 
 Click the "launch binder" button above to run this analysis in your browser! No installation required.
 
+### Important Note ⚠️
+
+When running the notebook in Binder:
+1. Make sure to run all cells in order from top to bottom
+2. The first time you run it, wait for the NLTK data download to complete
+3. If you get any errors, try running the cell again - sometimes network issues can cause temporary failures
+
 ## Project Overview
 
 This project conducts a detailed analysis of Taylor Swift's lyrics using natural language processing and data analysis techniques. Key areas of investigation include:
