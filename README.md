@@ -109,10 +109,6 @@ Original dataset curated by Jan Llenzl Dagohoy and published on [Kaggle](https:/
 
 Feel free to fork this repository and submit pull requests with improvements or additional analyses.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Jan Llenzl Dagohoy for the original dataset
