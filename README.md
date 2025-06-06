@@ -1,6 +1,12 @@
 # StarsAlign: A Taylor Swift Lyrics Analysis
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raksha-rane/stars-align/main?labpath=solution.ipynb)
+
 A computational analysis of Taylor Swift's lyrics, examining temporal references, sentiment patterns, and thematic evolution across her discography from 2006-2022.
+
+## Try it Live! 🚀
+
+Click the "launch binder" button above to run this analysis in your browser! No installation required.
 
 ## Project Overview
 
