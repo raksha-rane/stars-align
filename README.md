@@ -1,4 +1,4 @@
-# Taylor Swift Lyrics Analysis: A Data-Driven Exploration
+# StarsAlign: A Taylor Swift Lyrics Analysis
 
 A computational analysis of Taylor Swift's lyrics, examining temporal references, sentiment patterns, and thematic evolution across her discography from 2006-2022.
 
